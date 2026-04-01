@@ -66,7 +66,7 @@ def get_reward(self, action, done, collision, arrive):
         reward = self.get_distance_reward()
 
     return reward
-'''
+```
 
 
 ---

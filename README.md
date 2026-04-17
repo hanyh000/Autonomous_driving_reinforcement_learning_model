@@ -86,6 +86,6 @@ def get_reward(self, action, done, collision, arrive):
 ---
 
 
-## 6. 기여도 및 성과
+## 6. 담당한 부분
 
 * **담당한 부분**: DQN 상태(State) 및 보상 구조 설계, 상태 기반 주행 제어 정밀 최적화, 시스템 안정화 및 모델 관리 시스템 구축
